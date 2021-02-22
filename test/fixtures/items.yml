@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  brand: MyString
+  size: MyString
+  condition: MyString
+  location: MyString
+  user: one
+
+two:
+  category: MyString
+  brand: MyString
+  size: MyString
+  condition: MyString
+  location: MyString
+  user: two
